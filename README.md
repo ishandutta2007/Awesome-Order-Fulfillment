@@ -63,7 +63,7 @@ Below is a detailed comparison of top commercial order fulfillment and 3PL platf
 
 Below are production-ready open-source fulfillment routers, warehouse management systems, and e-commerce supply-chain systems, ranked in descending order by GitHub stargazers.
 
-| 📦 Repository | ⭐ Stars | 💻 Primary Stack | 🎯 Core Architecture & Purpose |
+| 📦 Repository | ⭐ GitHub_Stars | 💻 Primary Stack | 🎯 Core Architecture & Purpose |
 |:---|:---|:---|:---|
 | 📦 **[InvenTree](https://github.com/inventree/InvenTree)** | [![Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers) | `Python`, `Django`, `React` | Modular Open-Source Inventory & Order Management System with barcode tracking |
 | 🏬 **[ModernWMS](https://github.com/fjykTec/ModernWMS)** | [![Stars](https://img.shields.io/github/stars/fjykTec/ModernWMS?style=social&color=white)](https://github.com/fjykTec/ModernWMS/stargazers) | `Vue.js`, `.NET Core` | Complete cross-platform Warehouse Management System with receiving & dispatch |
@@ -108,7 +108,7 @@ Contributions are welcome! Follow these steps:
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-fulfillment-tool`).
-3. 📝 **Add your entry** adhering to the markdown table format (including exact pricing, specific trial parameters, star count badges, and categorized architectural notes).
+3. 📝 **Add your entry** adhering to the markdown table format (including exact pricing, specific trial parameters, Stars_Count badges, and categorized architectural notes).
 4. 🚀 **Submit a Pull Request** with a concise description of the platform.
 
 ---
