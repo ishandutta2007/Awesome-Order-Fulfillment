@@ -1,11 +1,17 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Order Fulfillment Banner" width="100%" />
+</p>
+
 # 📦 Awesome Order Fulfillment
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Order-Fulfillment?style=for-the-badge&logo=github&color=yellow" alt="Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Order-Fulfillment?style=for-the-badge&logo=github&color=blue" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Order-Fulfillment?style=for-the-badge&color=brightgreen" alt="Issues"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Order-Fulfillment/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > 🚀 **A curated directory of top e-commerce order fulfillment platforms, 3PL logistics networks, multi-channel order routing engines, warehouse management systems (WMS), and self-hosted supply chain infrastructure.**
@@ -20,6 +26,8 @@
   - [⚡ Top Open-Source Frameworks & WMS (Ranked by Stars)](#-top-open-source-frameworks--wms-ranked-by-stars)
   - [🛠️ Architectural Categorization & Deep Dive](#-architectural-categorization--deep-dive)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer & Operational Requirements](#️-disclaimer--operational-requirements)
 
 ---
@@ -40,7 +48,7 @@ Below is a detailed comparison of top commercial order fulfillment and 3PL platf
 | **[Deliverr (Flexport)](https://www.flexport.com/)** | **~$8B+ Valuation** (Flexport) | **$5,000/mo** minimum fulfillment/storage commitment; unit fulfillment starts at **~$5.40/unit** for standard parcels | **No Free Physical Fulfillment Trial**; Free access to Flexport Seller Portal and fee simulation calculator | Integrates global multi-modal ocean/air freight forwarding directly with domestic multi-channel D2C fulfillment. |
 | **[Quiet Platforms](https://quietplatforms.com/)** | **~$3.8B Market Cap** (Parent: American Eagle Outfitters) | **Custom Enterprise Contracts** (Bespoke volume contracts; typical baseline commitments from **~$5,000+/mo**) | **No Free Trial**; 1-on-1 enterprise network analysis, warehouse tour, and lane modeling consultations | Shared collaborative logistics network leveraging retailer warehouse footprints and regional linehauls. |
 | **[ShipBob](https://www.shipbob.com/)** | **~$1B+ Valuation** | **$275 to $400/mo** minimum fulfillment spend; per-order fulfillment starts at **~$5.00/order** ($5/bin, $10/shelf, $40/pallet/mo storage) | **No Free Fulfillment Trial**; Free sandbox portal exploration and self-service onboarding for stores <400 orders/mo | 60+ global fulfillment centers, proprietary WMS, 99.95% accuracy rate, AI delivery date engine, and MCP API servers. |
-| **[ShipMonk](https://www.shipmonk.com/)** | **~$1B+ Valuation** (~$225M annual revenue) | **$250/mo** minimum monthly fulfillment spend; pick-and-pack from **$2.50 to $3.00** for first item + carrier postage | **No Free Fulfillment Trial**; Interactive interactive software portal demo and online billing calculator access | Advanced automated DTC pick-and-pack robotics, B2B wholesale fulfillment, subscription box assembly, and custom kitting. |
+| **[ShipMonk](https://www.shipmonk.com/)** | **~$1B+ Valuation** (~$225M annual revenue) | **$250/mo** minimum monthly fulfillment spend; pick-and-pack from **$2.50 to $3.00** for first item + carrier postage | **No Free Fulfillment Trial**; Interactive software portal demo and online billing calculator access | Advanced automated DTC pick-and-pack robotics, B2B wholesale fulfillment, subscription box assembly, and custom kitting. |
 | **[Radial](https://www.radial.com/)** | **~$600M+ Scale** (Subsidiary of bpostgroup, ~€4.3B Group Revenue) | **Custom Mid-Market/Enterprise Tiers** (Annual contract commitments starting at **~$2,500 to $5,000+/mo**) | **No Free Trial**; Tailored omnichannel feasibility analysis and multi-node routing consultation | High-scale omnichannel commerce partner providing distributed order management (DOM), fraud liability, and returns. |
 | **[Rakuten Super Logistics](https://www.shipnetwork.com/)** | **~$200M+ Scale** (Rebranded as ShipNetwork; parent Rakuten ~$10B Cap) | Minimum order requirement of **1,000 orders/month**; custom unit fees start from **~$3.50/package** + postage | **No Free Fulfillment Trial**; Free initial supply-chain assessment and inventory distribution plan | 1-2 day ground delivery coverage across the United States via strategic warehouse nodes and SmartFill technology. |
 | **[DCL Logistics](https://www.dclcorp.com/)** | **~$180M+ Annual Revenue** | Account infrastructure starting at **~$1,000/mo** minimum storage/management; pick & pack from **~$3.25/order** | **No Free Trial**; Free operations consultation and custom shipping lane rate comparison | 40+ years in high-growth consumer electronics, certified medical devices, and high-value direct-to-consumer goods. |
@@ -102,6 +110,24 @@ Contributions are welcome! Follow these steps:
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-fulfillment-tool`).
 3. 📝 **Add your entry** adhering to the markdown table format (including exact pricing, specific trial parameters, star count badges, and categorized architectural notes).
 4. 🚀 **Submit a Pull Request** with a concise description of the platform.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using **Awesome Order Fulfillment**! If this curated resource has assisted your architecture decisions, warehouse implementations, or supply chain stack evaluations, please consider supporting the project:
+
+- ⭐ **Star this repository** to improve discoverability for other developers and operators.
+- 🍴 **Fork and share** the project with teammates, peers, and logistics communities.
+- ☕ **Support continuous maintenance & updates**: Buy me a coffee or sponsor ongoing development via the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**.
+
+Your support helps keep pricing benchmarks, repository stats, and logistics guides accurate and up-to-date!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Order-Fulfillment&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Order-Fulfillment&type=date&legend=top-left)
 
 ---
 
